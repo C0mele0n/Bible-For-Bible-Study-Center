@@ -1,3 +1,4 @@
+- What is sanctification?
 - The nature of Heaven (Jhn 3:13)
 - Did Christ ascend to Heaven more than once after the resurrection (Jhn 20:17)?
 	- [[Christ Ascended Twice?]]

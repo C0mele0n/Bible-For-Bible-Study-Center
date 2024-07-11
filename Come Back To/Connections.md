@@ -1,0 +1,1 @@
+Rev 10:3 = Jeremiah 25:15-30 (lion roar: proclamation of judgment: 3 angels messages) 

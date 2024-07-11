@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "22e558a5b9e195d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dafb5fe305e9737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa4f580a0a93840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Come Back To/Scriptures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53a5bac4ca060a87",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b686eed80a8a442f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf141d587eb68720",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "13fe7a87320d3a15",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "df4925f9eaa3c7a9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ec060d949bb32bf3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f39f29cec0be5f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Come Back To/Scriptures.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "462be026da7ec1f9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Come Back To/Scriptures.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ec0fa9427160a863",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Come Back To/Scriptures.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fa4f580a0a93840",
+  "lastOpenFiles": [
+    "Come Back To/Connections.md",
+    "01 Main Notes/Where Did Christ go upon Ascension?.md",
+    "01 Main Notes/The Impact of Christ's Ascension.md",
+    "Come Back To/Scriptures.md",
+    "01 Main Notes/Christ's Work after Ascending.md",
+    "Directories/Bible Question Topics.md",
+    "01 Main Notes/The Seal of God.md",
+    "01 Main Notes/Christ Ascended Twice?.md",
+    "The Fold of Christ.md"
+  ]
+}
