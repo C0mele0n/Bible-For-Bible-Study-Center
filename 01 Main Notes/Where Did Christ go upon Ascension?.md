@@ -135,21 +135,30 @@
 [Heb 10:1](verseid:58.10.1)  For the law having a shadow of good things to come, _and_ ==not the very image of the things==, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 
 
+ ⛳️
+
+
+## The seal of God
+
+> We have talked about Rev 22:11 and the common thought that it is describing a world-wide close of probation. I say common in reference to Seventh-Day-Adventism as this is the religion that I am most aware of (having been born into, and living in it for 28 years). That being said, another common thought (teaching) is that the Sabbath is the seal of God and that one doesnt get the seal of God until the time of the test of the 3rd angel: where they will first have to prove their loyalty to God by keeping the Sabbath. The question we will answer in this section is: "What does the Bible say that the seal of God is?"
+> We have already gone over scriptures which talked about the seal of God in Christ's own life, namely: Act 10:38, Jhn 3:34, and Isa 11:2-4 in conjunction with Luk 4:18-21. From them, we saw that Christ's anointing was done by, and through, the Holy Spirit. Lets keep these scriptures in mind as we go on to see how the Bible answers this question:
+
+[Jhn 6:27](verseid:43.6.27)  Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
 
  ⛳️
 
 
+> So, by many witnesses, it is clearly stated that we are sealed by/in the Spirit of God. What did Christ himself have to say about the matter?
 
+[Jhn 6:35](verseid:43.6.35)  And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+[Jhn 6:36](verseid:43.6.36)  But I said unto you, That ye also have seen me, and believe not.
+[Jhn 6:37](verseid:43.6.37)  All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
+[Jhn 6:38](verseid:43.6.38)  For I came down from heaven, not to do mine own will, but the will of him that sent me.
+[Jhn 6:39](verseid:43.6.39)  And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
+[Jhn 6:40](verseid:43.6.40)  And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
 
+> He said that all who believe on Him should never thirst; in other words, such will have Him, the Fountain of water (life; the Bread of life), eternally (otherwise the word "never" wouldn't be used). He goes on to talk about how all, who will be saved, have ==already== been given {past tense} into His hand (otherwise He wouldnt be able to say that He wouldnt lose any of them if it wasnt past tense). How are these words from Christ in agreement with the teaching that we are not sealed until the Sabbath vs Sunday test in the end of the world? 
 
-
-## The seal of God
-> We have talked about Rev 22:11 and the common thought that it is describing a world-wide close of probation. I say common in reference to Seventh-Day-Adventism as this is the religion that I am most aware of (having been born into, and living in it for 28 years). That being said, another common thought (teaching) is that the Sabbath is the seal of God and that one doesnt get the seal of God until the time of the test of the 3rd angel: where they will first have to prove their loyalty to God by keeping the Sabbath. The question we will answer in this section is: "What does the Bible say that the seal of God is?"
-> 
-We have already gone over scriptures which talked about the seal of God in Christ's own life, namely: Act 10:38, Jhn 3:34, and Isa 11:2-4 in conjunction with Luk 4:18-21. From them, we saw that Christ's anointing was done by, and through, the Holy Spirit. Lets keep these scriptures in mind as we go on to see how the Bible answers this question:
-
-[Jhn 6:27](verseid:43.6.27)  Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
- 
  ⛳️
 
 > Why is it that it is impossiible to please God without His Spirit, that everyone who walks in His Spirit both pleases Him and is without sin, and that the unpardonable sin is blasphemy against the Holy Ghost? It is because it is by the Holy Ghost that we are sealed for eternity, and by the rejection of the Holy Ghost that we are marked for destruction (⛳️).
