@@ -77,3 +77,9 @@ When did the events of the time prophecies happen?
 Rev 12:5  And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and _to_ his throne.
 
 Rev 12:6  And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred _and_ threescore days.
+
+---
+sanctification
+
+[Exo 29:43](verseid:2.29.43)  And there I will meet with the children of Israel, and _the tabernacle_ shall be sanctified by my glory.
+[Exo 29:44](verseid:2.29.44)  And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest's office.

@@ -133,9 +133,42 @@
 
 ### The earthly vs the heavenly sanctuary
 [Heb 10:1](verseid:58.10.1)  For the law having a shadow of good things to come, _and_ ==not the very image of the things==, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
+> This plainly states that the similarity between the earthly and heavenly sanctuary is not 1:1 in every particular. Lets further explore what that means.
 
+⛳️
+##### Point 1
+ > We see Christ amongst the candlesticks in Rev 1. Is this proof in and of itself that Christ ascended to do the work of the holy place? Another question, which will help to answer this one, is: Did the high priest only deal with the second compartment of the sanctuary on the day of atonement, or did he deal with all places (including the courtyard)? If the answer to the second question is no, then that is proof that the vision of Christ standing amongst the candlesticks is not proof, in and of itself, that Christ rather began the work of the holy place upon His ascension. We would need more information to determine such. Those being asked, what does the Bible say?
+ 
+ ⛳️
+
+> So we can conclude that, although we see the candlesticks in the holy place (first compartment) of the earthly sanctuary, and we see Christ amongst candlesticks in Heaven, ⛳️
+
+##### Point 2
+ ⛳️
+
+##### Point 3
+ ⛳️
+ 
+##### Point 4
+[Lev 10:16](verseid:3.10.16)  And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron _which were_ left _alive,_ saying,
+[Lev 10:17](verseid:3.10.17)  Wherefore have ye not eaten the sin offering in the holy place, seeing it _is_ most holy, and _God_ hath given it you to bear the iniquity of the congregation, to make atonement for them before the LORD?
+[Lev 10:18](verseid:3.10.18)  ==Behold, the blood of it was not brought in within the holy _place:_ ye should indeed have eaten it in the holy _place,_ as I commanded.==
+> One thing to note is that the word atonement was used to describe the daily sacrificial work (Exo 29:36) as well as to the cleansing of the sanctuary or "the Day of Atonement" (Lev 16). Those two uses clearly point to two separate things. Therefore, it is not enough to say that, because the word "atonement" is used here, in Lev 10:17, means that it was the "Day of Atonement". In fact, supposing so would introduce confusion. Here's how: One of the requirements for the sacrifice, that was to be eaten in the holy place, was that its blood did not enter into the holy place. Moses saw that the goat met the requirements of a sacrifice which should be eaten and was mad because those whom he instructed to eat it didn't eat it. Outside of the initial setting up, anointing, and atonement work for the sanctuary, and the priests (Exo 29), the eating of the burnt offerings was only a part of the daily work (Lev 6:26) and not of the day of atonement (Lev 16). If the blood had entered into the holy place, the priests would not be permitted to eat it. The blood of sacrifice did however enter the holy place on the day of atonement. Therefore, we cannot suppose that the word "atonement" referred to the day of atonement, and also that the blood was not brought in. Such attempt brings in confusion. 
+> Lets go on to see other scriptures which show that, in regular daily and yearly terms (excluding the initial setup of the sanctuary), the blood only entered into the holy place on the day of atonement:
+
+[Exo 30:10](verseid:2.30.10)  And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: ==once in the year== shall he make atonement upon it throughout your generations: it _is_ most holy unto the LORD.
+
+[Heb 13:10](verseid:58.13.10)  We have an altar, whereof ==they have no right to eat which serve the tabernacle==.
+[Heb 13:11](verseid:58.13.11)  For the bodies of those beasts, whose ==blood is brought into the sanctuary by the high priest== for sin, are burned without the camp.
+[Heb 13:12](verseid:58.13.12)  ==Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate==.
+
+> So, again, from all of these scriptures (for this specific point) we can see that there was no blood taken into the sanctuary itself until the Day of Atonement. With that in mind, lets see whether Christ ascended to Heaven to apply His blood immediately or not:
 
  ⛳️
+
+##### Point 5
+ ⛳️
+
 
 
 ## The seal of God
