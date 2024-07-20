@@ -198,23 +198,83 @@
 
  ⛳️
 
-### The veil
-> What did the veil represent, and why is that important in understanding the work that Christ began upon His ascension?
- ⛳️
+### The veil 
+⛳️(Add commentary an/or more scriptures to whole section)
+
+> What did the veil represent, and why is that important in understanding the work that Christ began upon His ascension? We will see as we continue:
+
+[Gen 24:65](verseid:1.24.65)  For she _had_ said unto the servant, What man _is_ this that walketh in the field to meet us? And the servant _had_ said, It _is_ my master: therefore she took a vail, and covered herself.
+
+[Exo 40:3](verseid:2.40.3)  And thou shalt put therein the ark of the testimony, and cover the ark with the vail.
+
+[Exo 26:33](verseid:2.26.33)  And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy _place_ and the most holy.
+
+[Exo 34:30](verseid:2.34.30)  And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.
+[Exo 34:33](verseid:2.34.33)  And _till_ Moses had done speaking with them, he put a vail on his face.
+[Exo 34:34](verseid:2.34.34)  But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel _that_ which he was commanded.
+[Exo 34:35](verseid:2.34.35)  And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.
+> [Exo 20:19](verseid:2.20.19)  And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
+
+## [Leviticus 16:2](verseid:3.16.2)   (KJV)
+
+2  And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy _place_ within the vail before the mercy seat, which _is_ upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
+
+## [Leviticus 21:23](verseid:3.21.23)   (KJV)
+
+23  Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.
+
+[Isa 59:2](verseid:23.59.2)  But your iniquities have separated between you and your God, and your sins have hid _his_ face from you, that he will not hear.
+
+
+
+[Mat 1:23](verseid:40.1.23)  Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+
+[Heb 10:19](verseid:58.10.19)  Having therefore, brethren, ==boldness to enter into the holiest by the blood of Jesus==,
+[Heb 10:20](verseid:58.10.20)  By a new and living way, which he hath consecrated for us, ==through the veil, that is to say, his flesh==;
+
+[2Co 3:12](verseid:47.3.12)  Seeing then that we have such hope, we use great plainness of speech:
+[2Co 3:13](verseid:47.3.13)  And not as Moses, _which_ put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
+[2Co 3:14](verseid:47.3.14)  But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which _vail_ is done away in Christ.
+[2Co 3:15](verseid:47.3.15)  But even unto this day, when Moses is read, the vail is upon their heart.
+[2Co 3:16](verseid:47.3.16)  Nevertheless when it shall turn to the Lord, the vail shall be taken away.
+##### The renting of the veil
+## [Matthew 27:51](verseid:40.27.51)   (KJV)
+
+51  And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;
+
+## [Mark 15:38](verseid:41.15.38)   (KJV)
+
+38  And the veil of the temple was rent in twain from the top to the bottom.
+## [Ephesians 2:15](verseid:49.2.15)   (KJV)
+
+15  Having abolished in his flesh the enmity, _even_ the law of commandments _contained_ in ordinances; for to make in himself of twain one new man, _so_ making peace;
+
+⛳️
+
+> After 2Co 3:16 it continues:
+
+[2Co 3:17](verseid:47.3.17)  Now the Lord is that Spirit: and where the Spirit of the Lord _is,_ there _is_ liberty.
+[2Co 3:18](verseid:47.3.18)  But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, _even_ as by the Spirit of the Lord.
+
+
+
+⛳️
+[Isa 25:7](verseid:23.25.7)  And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations.
+> In the end, the vail of the sky will be rolled away, and there will be nothing between us, this earth and God. All things will then be changed into His glory. The old will pass away (just as the old covenant passed away at the cross) and all things will be made new (reflecting the newness of life that Christ will have instilled into all that are God's). God will be with His people and with nothing in between.
+
+[Rev 21:3](verseid:66.21.3)  And I heard a great voice out of heaven saying, Behold, the tabernacle of God _is_ with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, _and be_ their God.
+[Rev 21:4](verseid:66.21.4)  And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+[Rev 21:5](verseid:66.21.5)  And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
+[Rev 21:6](verseid:66.21.6)  And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
+[Rev 21:7](verseid:66.21.7)  He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
+[Rev 21:8](verseid:66.21.8)  But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+---
 ---
 
 ![[Christ's Work after Ascending]]
