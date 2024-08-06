@@ -1,4 +1,5 @@
-[Heb 10:19](verseid:58.10.19)  Having therefore, brethren, boldness ==to enter into the holiest by the blood of Jesus==,
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""[Heb 10:19](verseid:58.10.19)  Having therefore, brethren, boldness ==to enter into the holiest by the blood of Jesus==,
 [Heb 10:20](verseid:58.10.20)  By a new and living way, which he hath consecrated for us, ==through the veil, that is to say, his flesh==;
 [Heb 10:21](verseid:58.10.21)  And _having_ an high priest over the house of God;
 [Heb 10:22](verseid:58.10.22)  Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
@@ -137,8 +138,40 @@
 
 ⛳️
 ##### Point 1
- > We see Christ amongst the candlesticks in Rev 1. Is this proof in and of itself that Christ ascended to do the work of the holy place? Another question, which will help to answer this one, is: Did the high priest only deal with the second compartment of the sanctuary on the day of atonement, or did he deal with all places (including the courtyard)? If the answer to the second question is no, then that is proof that the vision of Christ standing amongst the candlesticks is not proof, in and of itself, that Christ rather began the work of the holy place upon His ascension. We would need more information to determine such. Those being asked, what does the Bible say?
+ > We see Christ amongst the candlesticks in Rev 1. Is this proof in and of itself that Christ ascended to do the work of the holy place? Another question, which will help to answer this one, is: Did the high priest only deal with the second compartment (the most holy place) of the sanctuary on the day of atonement, or did he deal with all places (including the courtyard)? ~~If the answer to the second question is all, then that shows that the vision of Christ standing amongst the candlesticks is not enough proof, in and of itself, that Christ rather began the work of the holy place upon His ascension. We would need more than the vision of Christ amongst the candlesticks to have evidence that Christ went to a holy place in Heaven.~~ Lastly, where is the place where Christ is seen to walking amongst the candle sticks? This may seem like a weird question, since we know that the candle sticks in Rev 1 correspond to the lamp of the holy place of the Mosaic tabernacle (Exo 24:37-40). However, in order to give room for Heb 10:1, we should drop the expectation that the earthly sanctuary perfectly reveals the one in Heaven (in literal terms) and rather let the Bible answer this question from a clean slate.  So, with those questions being asked, lets see what the Bible says about the candle sticks:
  
+ ⛳️
+## Revelation 1:20   (KJV)
+
+20  The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+>This is our first clue
+
+## [Revelation 2:1](verseid:66.2.1)   (KJV)
+1  Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
+
+## Matthew 5:15-16   (KJV)
+15  Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.
+16  Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+
+## Philippians 2:15-16   (KJV)
+15  That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;
+16  Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
+
+
+ Zec 4:1  And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
+Zec 4:2  And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all _of_ gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which _are_ upon the top thereof:
+Zec 4:3  And two olive trees by it, one upon the right _side_ of the bowl, and the other upon the left _side_ thereof.
+Zec 4:4  So I answered and spake to the angel that talked with me, saying, What _are_ these, my lord?
+Zec 4:5  Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord.
+Zec 4:6  Then he answered and spake unto me, saying, This _is_ the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.
+Zec 4:7  Who _art_ thou, O great mountain? before Zerubbabel _thou shalt become_ a plain: and he shall bring forth the headstone _thereof with_ shoutings, _crying,_ Grace, grace unto it.
+Zec 4:8  Moreover the word of the LORD came unto me, saying,
+Zec 4:9  The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the LORD of hosts hath sent me unto you.
+Zec 4:10  For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel _with_ those seven; they _are_ the eyes of the LORD, which run to and fro through the whole earth.
+Zec 4:11  Then answered I, and said unto him, What _are_ these two olive trees upon the right _side_ of the candlestick and upon the left _side_ thereof?
+Zec 4:12  And I answered again, and said unto him, What _be these_ two olive branches which through the two golden pipes empty the golden _oil_ out of themselves?
+Zec 4:13  And he answered me and said, Knowest thou not what these _be?_ And I said, No, my lord.
+Zec 4:14  Then said he, These _are_ the two anointed ones, that stand by the Lord of the whole earth.
  ⛳️
 
 > So we can conclude that, although we see the candlesticks in the holy place (first compartment) of the earthly sanctuary, and we see Christ amongst candlesticks in Heaven, ⛳️
@@ -203,8 +236,6 @@
 
 > What did the veil represent, and why is that important in understanding the work that Christ began upon His ascension? We will see as we continue:
 
-[Gen 24:65](verseid:1.24.65)  For she _had_ said unto the servant, What man _is_ this that walketh in the field to meet us? And the servant _had_ said, It _is_ my master: therefore she took a vail, and covered herself.
-
 [Exo 40:3](verseid:2.40.3)  And thou shalt put therein the ark of the testimony, and cover the ark with the vail.
 
 [Exo 26:33](verseid:2.26.33)  And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy _place_ and the most holy.
@@ -213,8 +244,10 @@
 [Exo 34:33](verseid:2.34.33)  And _till_ Moses had done speaking with them, he put a vail on his face.
 [Exo 34:34](verseid:2.34.34)  But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel _that_ which he was commanded.
 [Exo 34:35](verseid:2.34.35)  And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.
-> [Exo 20:19](verseid:2.20.19)  And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
 
+> [Exo 20:19](verseid:2.20.19)  And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die. 
+> Exo 20:19 shows even more of the sentiment which the children of Israel had concerning God's presence and glory.  
+> So far, we see that the veil is for a covering; to hide something away. ⛳️
 ## [Leviticus 16:2](verseid:3.16.2)   (KJV)
 
 2  And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy _place_ within the vail before the mercy seat, which _is_ upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
@@ -225,7 +258,7 @@
 
 [Isa 59:2](verseid:23.59.2)  But your iniquities have separated between you and your God, and your sins have hid _his_ face from you, that he will not hear.
 
-
+[Gen 24:65](verseid:1.24.65)  For she _had_ said unto the servant, What man _is_ this that walketh in the field to meet us? And the servant _had_ said, It _is_ my master: therefore she took a vail, and covered herself.
 
 [Mat 1:23](verseid:40.1.23)  Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
 
