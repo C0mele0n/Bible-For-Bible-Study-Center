@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69316f0dc281cdbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tithe?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62a4b6004ff87132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tithe?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Come Back To/Scriptures.md",
+            "file": "Tithe?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Come Back To/Scriptures.md",
+            "file": "Tithe?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Come Back To/Scriptures.md"
+            "file": "Tithe?.md"
           }
         }
       }
@@ -131,12 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fa4f580a0a93840",
+  "active": "62a4b6004ff87132",
   "lastOpenFiles": [
+    "Reason for drought.md",
+    "Tithe?.md",
+    "Come Back To/Scriptures.md",
     "Come Back To/Connections.md",
     "01 Main Notes/Where Did Christ go upon Ascension?.md",
     "01 Main Notes/The Impact of Christ's Ascension.md",
-    "Come Back To/Scriptures.md",
     "01 Main Notes/Christ's Work after Ascending.md",
     "Directories/Bible Question Topics.md",
     "01 Main Notes/The Seal of God.md",
